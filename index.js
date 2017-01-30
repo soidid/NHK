@@ -2,9 +2,8 @@
 var lesson = window.location.pathname.split('.html')[0].split('/')[1]
 if(lesson === "NHK")
 	lesson = window.location.pathname.split('.html')[0].split('/')[2]
-console.log("***")
-console.log(lesson)
-if(lesson === "index")
+
+if(lesson === "index" || !lesson)
 	lesson = 1;
 
 var lesson_n = document.querySelector("#lesson");
