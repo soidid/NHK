@@ -2,7 +2,8 @@
 var lesson = window.location.pathname.split('.html')[0].split('/')[1]
 if(lesson === "NHK")
 	lesson = window.location.pathname.split('.html')[0].split('/')[2]
-
+console.log("***")
+console.log(lesson)
 if(lesson === "index")
 	lesson = 1;
 
