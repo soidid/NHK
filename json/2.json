@@ -1,0 +1,90 @@
+[
+    {
+        "vocabulary": "さん",
+        "romaji": "[SAN]",
+        "chinese": "先生、女士、小姐",
+        "chinese_detail": "在日语里，称呼一个人，要在这个人的名字后面加上敬称「さん」。如果是小女孩的话，也可以在名字后面加上「ちゃん」；如果是小男孩，也可以在名字后面加上「くん」。这两种说法通常用来称呼学龄前的小孩。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_01.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl01.mp3"
+    },
+    {
+        "vocabulary": "どうぞ",
+        "romaji": "[DÔZO]",
+        "chinese": "请",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_02.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl02.mp3"
+    },
+    {
+        "vocabulary": "これ",
+        "romaji": "[KORE]",
+        "chinese": "这个",
+        "chinese_detail": "「これ」是指示代词，指离说话人距离比较近的东西。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_03.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl03.mp3"
+    },
+    {
+        "vocabulary": "何ですか",
+        "romaji": "[NAN DESU KA]",
+        "chinese": "···是什么？",
+        "chinese_detail": "「何」后续「です」，构成谓语。「か」是助词，接在句尾，用升调来读，就变成了疑问句。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_04.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl04.mp3"
+    },
+    {
+        "vocabulary": "それ",
+        "romaji": "[SORE]",
+        "chinese": "那个",
+        "chinese_detail": "「それ」是指示代词，指离听话人距离比较近的东西。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_05.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl05.mp3"
+    },
+    {
+        "vocabulary": "タイ",
+        "romaji": "[TAI]",
+        "chinese": "泰国",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_06.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl06.mp3"
+    },
+    {
+        "vocabulary": "お土産",
+        "romaji": "[OMIYAGE]",
+        "chinese": "礼物、特产",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_07.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl07.mp3"
+    },
+    {
+        "vocabulary": "ありがとうございます",
+        "romaji": "[ARIGATÔ GOZAIMASU]",
+        "chinese": "谢谢",
+        "chinese_detail": "只说「ありがとう」也可以，加上「ございます」的话，就变成了郑重说法。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_08.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl08.mp3"
+    },
+    {
+        "vocabulary": "どういたしまして",
+        "romaji": "[DÔITASHIMASHITE]",
+        "chinese": "不客气",
+        "chinese_detail": "这是对方向你表示感谢时的一种固定的回应方法。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_09.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl09.mp3"
+    },
+    {
+        "vocabulary": "何時ですか",
+        "romaji": "[NANJI DESU KA]",
+        "chinese": "几点钟？",
+        "chinese_detail": "在「何（なん）」（几）后面加上表示时间的「時（じ）」（点），「何時ですか」，意思就是“几点钟？”",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_10.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl10.mp3"
+    },
+    {
+        "vocabulary": "何人ですか",
+        "romaji": "[NANNIN DESU KA]",
+        "chinese": "几个人？",
+        "chinese_detail": "也可以在「何（なん）」（几）后面加上表示人数的「人（にん）」，「何人ですか」，意思就是“几个人？”",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/2_11.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le2_v_vl11.mp3"
+    }
+]

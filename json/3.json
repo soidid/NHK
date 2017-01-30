@@ -1,0 +1,186 @@
+[
+    {
+        "vocabulary": "ここ",
+        "romaji": "[KOKO]",
+        "chinese": "这里",
+        "chinese_detail": "「ここ」是指示代词，指说话人所在的场所。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_01.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl01.mp3"
+    },
+    {
+        "vocabulary": "教室",
+        "romaji": "[KYÔSHITSU]",
+        "chinese": "教室",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_02.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl02.mp3"
+    },
+    {
+        "vocabulary": "わあ",
+        "romaji": "[WÂ]",
+        "chinese": "哇",
+        "chinese_detail": "「わあ」是在吃惊或感动时使用的感叹词。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_03.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl03.mp3"
+    },
+    {
+        "vocabulary": "広い",
+        "romaji": "[HIROI]",
+        "chinese": "宽敞",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_04.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl04.mp3"
+    },
+    {
+        "vocabulary": "狭い",
+        "romaji": "[SEMAI]",
+        "chinese": "狭小",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_05.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl05.mp3"
+    },
+    {
+        "vocabulary": "あそこ",
+        "romaji": "[ASOKO]",
+        "chinese": "那里",
+        "chinese_detail": "「あそこ」是指示代词，指离说话人和听话人双方都比较远的地方。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_06.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl06.mp3"
+    },
+    {
+        "vocabulary": "図書館",
+        "romaji": "[TOSHOKAN]",
+        "chinese": "图书馆",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_07.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl07.mp3"
+    },
+    {
+        "vocabulary": "トイレ",
+        "romaji": "[TOIRE]",
+        "chinese": "洗手间",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_08.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl08.mp3"
+    },
+    {
+        "vocabulary": "テレビ",
+        "romaji": "[TEREBI]",
+        "chinese": "电视机",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_09.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl09.mp3"
+    },
+    {
+        "vocabulary": "ラジオ",
+        "romaji": "[RAJIO]",
+        "chinese": "收音机",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_10.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl10.mp3"
+    },
+    {
+        "vocabulary": "どこ",
+        "romaji": "[DOKO]",
+        "chinese": "哪里",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_11.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl11.mp3"
+    },
+    {
+        "vocabulary": "すぐ",
+        "romaji": "[SUGU]",
+        "chinese": "就",
+        "chinese_detail": "在这里是表示距离很近的副词。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_12.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl12.mp3"
+    },
+    {
+        "vocabulary": "そこ",
+        "romaji": "[SOKO]",
+        "chinese": "那儿",
+        "chinese_detail": "「そこ」是指示代词，指离正在说话的两个人稍远一点的地方。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_13.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl13.mp3"
+    },
+    {
+        "vocabulary": "この",
+        "romaji": "[KONO]",
+        "chinese": "这个（放在名词前面）",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_14.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl14.mp3"
+    },
+    {
+        "vocabulary": "その",
+        "romaji": "[SONO]",
+        "chinese": "那个（放在名词前面）",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_15.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl15.mp3"
+    },
+    {
+        "vocabulary": "あれ",
+        "romaji": "[ARE]",
+        "chinese": "那个",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_16.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl16.mp3"
+    },
+    {
+        "vocabulary": "あの",
+        "romaji": "[ANO]",
+        "chinese": "那个（放在名词前面）",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_17.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl17.mp3"
+    },
+    {
+        "vocabulary": "どれ",
+        "romaji": "[DORE]",
+        "chinese": "哪个",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_18.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl18.mp3"
+    },
+    {
+        "vocabulary": "どの",
+        "romaji": "[DONO]",
+        "chinese": "哪个（放在名词前面）",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_19.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl19.mp3"
+    },
+    {
+        "vocabulary": "こちら",
+        "romaji": "[KOCHIRA]",
+        "chinese": "这边",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_20.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl20.mp3"
+    },
+    {
+        "vocabulary": "そちら",
+        "romaji": "[SOCHIRA]",
+        "chinese": "那边",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_21.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl21.mp3"
+    },
+    {
+        "vocabulary": "あちら",
+        "romaji": "[ACHIRA]",
+        "chinese": "那边",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_22.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl22.mp3"
+    },
+    {
+        "vocabulary": "どちら",
+        "romaji": "[DOCHIRA]",
+        "chinese": "哪边",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/3_23.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le3_v_vl23.mp3"
+    }
+]

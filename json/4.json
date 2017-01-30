@@ -1,0 +1,106 @@
+[
+    {
+        "vocabulary": "ただいま",
+        "romaji": "[TADAIMA]",
+        "chinese": "我回来了",
+        "chinese_detail": "「ただいま」是回家时说的寒暄语。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_01.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl01.mp3"
+    },
+    {
+        "vocabulary": "お帰りなさい",
+        "romaji": "[OKAERINASAI]",
+        "chinese": "你回来了",
+        "chinese_detail": "「お帰りなさい」是对回到家的人说的寒暄语。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_02.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl02.mp3"
+    },
+    {
+        "vocabulary": "こんにちは",
+        "romaji": "[KONNICHIWA]",
+        "chinese": "你好",
+        "chinese_detail": "「こんにちは」是白天和他人见面时说的寒暄语。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_03.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl03.mp3"
+    },
+    {
+        "vocabulary": "おはようございます",
+        "romaji": "[OHAYÔ GOZAIMASU]",
+        "chinese": "早上好",
+        "chinese_detail": "「おはようございます」是早上说的寒暄语。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_04.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl04.mp3"
+    },
+    {
+        "vocabulary": "こんばんは",
+        "romaji": "[KONBANWA]",
+        "chinese": "晚上好",
+        "chinese_detail": "「こんばんは」是晚上说的寒暄语。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_05.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl05.mp3"
+    },
+    {
+        "vocabulary": "あなた",
+        "romaji": "[ANATA]",
+        "chinese": "你",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_06.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl06.mp3"
+    },
+    {
+        "vocabulary": "留学生",
+        "romaji": "[RYÛGAKUSEI]",
+        "chinese": "留学生",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_07.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl07.mp3"
+    },
+    {
+        "vocabulary": "いいえ",
+        "romaji": "[IIE]",
+        "chinese": "不",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_08.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl08.mp3"
+    },
+    {
+        "vocabulary": "はい",
+        "romaji": "[HAI]",
+        "chinese": "是的",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_09.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl09.mp3"
+    },
+    {
+        "vocabulary": "そう",
+        "romaji": "[SÔ]",
+        "chinese": "那样",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_10.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl10.mp3"
+    },
+    {
+        "vocabulary": "日本人",
+        "romaji": "[NIHON-JIN]",
+        "chinese": "日本人",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_11.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl11.mp3"
+    },
+    {
+        "vocabulary": "日本語",
+        "romaji": "[NIHON-GO]",
+        "chinese": "日语",
+        "chinese_detail": "“日语”是「日本語（にほんご）」，在「日本」的后面加上「語」。",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_12.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl12.mp3"
+    },
+    {
+        "vocabulary": "学生",
+        "romaji": "[GAKUSEI]",
+        "chinese": "学生",
+        "chinese_detail": "",
+        "link": "https://www.nhk.or.jp/lesson/chinese/vocabulary/list/4_13.html",
+        "audio": "https://www.nhk.or.jp/lesson/update/mp3/le4_v_vl13.mp3"
+    }
+]
