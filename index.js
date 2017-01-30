@@ -1,7 +1,11 @@
 'use strict'
 var lesson = window.location.pathname.split('.html')[0].split('/')[1]
+if(lesson === "NHK")
+	lesson = window.location.pathname.split('.html')[0].split('/')[2]
+
 if(lesson === "index")
 	lesson = 1;
+
 var lesson_n = document.querySelector("#lesson");
 var lesson_t = document.createTextNode("Lesson "+lesson)
 lesson_n.appendChild(lesson_t)
